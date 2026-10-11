@@ -1,0 +1,10 @@
+GitHub Pages publishing
+
+1. Push this repository to GitHub.
+2. Open Settings -> Pages.
+3. Source: Deploy from a branch.
+4. Branch: main.
+5. Folder: /docs.
+6. Save.
+
+The site is plain static HTML/CSS. No hidden files, Jekyll files, Actions, or build step are required.

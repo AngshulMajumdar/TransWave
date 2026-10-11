@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "TransWave"
+message: "If you use this software, please cite the repository."
+type: software
+authors:
+  - family-names: "Majumdar"
+    given-names: "Angshul"
+license: MIT
+version: "0.1.0"
+date-released: 2026-10-11
+abstract: >
+  Causal byte-level multiscale language modeling with learned lifting and causal Meyer mixing.
